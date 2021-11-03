@@ -11,6 +11,7 @@ Como executar
 Clone o projeto e acesse a pasta do mesmo.
 
 $ git clone https://github.com/angelicacamboim/todolist_react
+
 Para iniciá-lo, siga os passos abaixo:
 
 Iniciar o projeto
