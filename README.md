@@ -14,6 +14,9 @@ $ git clone https://github.com/angelicacamboim/todolist_react
 Para iniciá-lo, siga os passos abaixo:
 
 Iniciar o projeto
+
 $ npm install
+
 $ npm run dev
+
 O app estará disponível no seu browser pelo endereço http://localhost:8080/.
