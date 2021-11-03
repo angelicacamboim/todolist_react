@@ -8,7 +8,7 @@ ToDoList é uma pequena aplicação de atividades, para treinar um pouco mais so
 
 Como executar:
 
-- Clone o projeto e acesse a pasta do mesmo:  git clone https://github.com/angelicacamboim/todolist_react
+- Clone o projeto e acesse a pasta:  git clone https://github.com/angelicacamboim/todolist_react
 
 Para iniciá-lo, siga os passos abaixo:
 
