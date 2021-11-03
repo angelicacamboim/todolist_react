@@ -15,14 +15,14 @@ export function TaskList() {
 	const [newTaskTitle, setNewTaskTitle] = useState('')
 
 	function handleCreateNewTask() {
-		if (newTaskTitle.trim() !== '') {
-			const uniqueId = Date.now()
-			const newTask = { id: uniqueId, title: newTaskTitle, isComplete: false }
-			setTasks([...tasks, newTask])
-			setNewTaskTitle('')
-		} else {
-			alert('Não pode inserir task vazia')
+		if (!newTaskTitle) return
+		const newTask = {
+			id: Date.now(),
+			title: newTaskTitle,
+			isComplete: false
 		}
+		setTasks([...tasks, newTask])
+		setNewTaskTitle('')
 	}
 
 	function handleToggleTaskCompletion(id: number) {
