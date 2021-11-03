@@ -6,18 +6,14 @@ ToDoList é uma pequena aplicação de atividades, para treinar um pouco mais so
 - Remover uma tarefa
 - Marcar e desmarcar uma tarefa como concluída
 
-Como executar
+Como executar:
 
-Clone o projeto e acesse a pasta do mesmo.
-
-$ git clone https://github.com/angelicacamboim/todolist_react
+- Clone o projeto e acesse a pasta do mesmo:  git clone https://github.com/angelicacamboim/todolist_react
 
 Para iniciá-lo, siga os passos abaixo:
 
-Iniciar o projeto
+- npm install
 
-$ npm install
-
-$ npm run dev
+- npm run dev
 
 O app estará disponível no seu browser pelo endereço http://localhost:8080/.
