@@ -7,6 +7,7 @@ ToDoList é uma pequena aplicação de atividades, para treinar um pouco mais so
 - Marcar e desmarcar uma tarefa como concluída
 
 Como executar
+
 Clone o projeto e acesse a pasta do mesmo.
 
 $ git clone https://github.com/angelicacamboim/todolist_react
